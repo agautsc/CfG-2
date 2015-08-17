@@ -1,0 +1,59 @@
+---
+layout: index
+title: Home
+permalink: /
+---
+
+<div id="service">
+    <div class="container">
+        <div class="row centered">
+            <div class="col-md-4">
+                <a href="http://github.com/codeforgreenville"><i class="fa fa-github"></i></a>
+                <h4>Our Projects</h4>
+                <p>We're working on several projects right now including a trolley tracker app and universal calendar. All of our code is hosted on the <a href="http://github.com/codeforgreenville" title="Code for Greenville Github account">Code for Greenville GitHub account</a>.</p>
+                <p><br/><a href="http://github.com/codeforgreenville" class="btn btn-theme">More Info</a></p>
+            </div>
+            <div class="col-md-4">
+                <a href="http://www.meetup.com/Upstate-Code-for-America/"><i class="fa fa-calendar"></i></a>
+                <h4>Our Meetings</h4>
+                <p>All of our meetings are posted on Meetup.com. Please follow the Upstate Code For America group for more information on meetings.</p>
+                <p><br/><a href="http://www.meetup.com/Upstate-Code-for-America/" class="btn btn-theme">More Info</a></p>
+            </div>
+            <div class="col-md-4">
+                <a href="https://codeforgvl.imaginethat.io/"><i class="fa fa-bell-o"></i></a>
+                <h4>New Ideas</h4>
+                <p>We're always looking for new ideas for projects. Please share your ideas to make Greenville better or Code for Greenville better.</p>
+                <p><br/><a href="https://codeforgvl.imaginethat.io/" class="btn btn-theme">More Info</a></p>
+            </div>
+        </div>
+    </div><! --/container -->
+</div><! --/service -->
+
+{% include portfolio.html title="OUR PROJECTS" limit=10 %}
+
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-4 col-lg-offset-1">
+            <h4>More About Greenville</h4>
+            <p>{{ site.about }}</p>
+            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
+        </div>
+
+        <div class="col-lg-3">
+            <h4>Frequently Asked</h4>
+            <div class="hline"></div>
+            {% for post in site.categories['question'] %}
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+            {% endfor %}
+        </div>
+
+      <div class="col-lg-3">
+            <h4>Latest Posts</h4>
+            <div class="hline"></div>
+            {% for post in site.categories['blog'] limit:5 %}
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+            {% endfor %}
+        </div>
+
+    </div><! --/row -->
+</div><! --/container -->

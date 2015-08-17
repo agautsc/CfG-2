@@ -1,0 +1,227 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: Code for GVL
+description: "The Marketing Site for Code for Greenville, SC"
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary: "#2C8437" #"#F70031"
+  primary_rgb: "44,132,55" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#384452" #"#33004D"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+
+
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+  - title: github
+    url: http://github.com/codeforgreenville
+  - title: calendar
+    url: http://www.meetup.com/Upstate-Code-for-America/
+  - title: twitter
+    url: https://twitter.com/agautsc/lists/code-for-greenville
+  - title: slack
+    url: https://hackgreenville.typeform.com/to/sBMjCF
+
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines:
+    - OpenWorks
+    - 101 N Main Street, Third Floor
+    - Greenville, SC 29601
+    - United States.
+email: codeforgvl@gmail.com
+
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+
+# Members information. Shown on About page.
+members:
+  - name: Adam Gautsch
+    text:
+    img: gautsch.jpg
+    social:
+      - title: github #use for email address
+        url: http://github.com/agautsc
+      - title: twitter
+        url: http://twitter.com/agautsc
+  - name: Adam Hodges
+    text:
+    img: hodges.jpg
+    social:
+      - title: github #use for email address
+        url: http://github.com/ajhodges
+  - name: Al Gonzalez
+    text:
+    img: gonzalez.jpg
+    social:
+      - title: github #use for email address
+        url: http://github.com/algonzalez
+      - title: twitter
+        url: http://twitter.com/algonzalez
+  - name: Jim Ciallella
+    text:
+    img: allella.png
+    social:
+      - title: github #use for email address
+        url: http://github.com/allella
+      - title: twitter
+        url: http://twitter.com/allella
+  - name: Austin Younts
+    text:
+    img: austin.jpg
+    social:
+      - title: github #use for email address
+        url: http://github.com/austin9350
+      - title: twitter
+        url: http://twitter.com/austin9350
+  - name: Bekk Blando
+    text:
+    img: blando.jpg
+    social:
+      - title: github #use for email address
+        url: http://github.com/bekkblando
+  - name: Benjamin Young
+    text:
+    img: young.jpg
+    social:
+      - title: github #use for email address
+        url: http://github.com/bigbluehat
+      - title: twitter
+        url: http://twitter.com/bigbluehat
+  - name: bikeoid
+    text:
+    img: gonzalez.jpg
+    social:
+      - title: github #use for email address
+        url: http://github.com/bikeoid
+  - name: Brittney Murray
+    text:
+    img: murray.png
+    social:
+      - title: github #use for email address
+        url: http://github.com/brittn
+      - title: twitter
+        url: http://twitter.com/brittneymurray
+  - name: Chris G. Williams
+    text:
+    img: williams.jpg
+    social:
+      - title: github #use for email address
+        url: http://github.com/chrisgwilliams
+      - title: twitter
+        url: http://twitter.com/chrisgwilliams
+  - name: Dante Durrman
+    text:
+    img: durrman.png
+    social:
+      - title: github #use for email address
+        url: http://github.com/dantedurrman
+      - title: twitter
+        url: http://twitter.com/dantedurrman
+  - name: Ryan Poolos
+    text:
+    img: poolos.png
+    social:
+      - title: github #use for email address
+        url: http://github.com/emperioreric
+      - title: twitter
+        url: http://twitter.com/emperioreric
+  - name: Glen K. Peterson
+    text:
+    img: peterson.png
+    social:
+      - title: github #github account
+        url: https://github.com/GlenKPeterson
+      - title: twitter
+        url: http://twitter.com/GlenKPeterson
+  - name: Harrison Stall
+    text:
+    img: stall.jpeg
+    social:
+      - title: github #github account
+        url: https://github.com/hstall2529
+  - name: Jeremy Wight
+    text:
+    img: wight.jpeg
+    social:
+      - title: github #github account
+        url: https://github.com/jeremywight
+      - title: twitter
+        url: https://twitter.com/jeremywight
+  - name: Josip Injic
+    text:
+    img: injic.png
+    social:
+      - title: github #github account
+        url: https://github.com/jinjic
+  - name: Matthew Thornton
+    text:
+    img: thornton.png
+    social:
+      - title: github #github account
+        url: https://github.com/MintyX
+  - name: Ryan McAllen
+    text:
+    img: mcallen.jpeg
+    social:
+      - title: github #github account
+        url: https://github.com/rhynodesigns
+      - title: twitter
+        url: https://twitter.com/rhynodesigns
+  - name: Carmen Mays
+    text:
+    img: mays.jpeg
+    social:
+      - tite: github #github account
+        url: https://github.com/SheDidThat
+  - name: Steven Wade
+    text:
+    img: wade.jpeg
+    social:
+      - title: github #github account
+        url: https://github.com/stevenwadejr
+      - title: twitter
+        url: https://twitter.com/stevenwadejr
+  - name: Dan Fields
+    text:
+    img: fields.jpeg
+    social:
+      - title: github #github account
+        url: https://github.com/thedanfields
+  - name: Wryen Meek
+    text:
+    img: meek.jpeg
+    social:
+      - title: github #github account
+        url: https://github.com/wryenmeek
+      - title: twitter
+        url: https://twitter.com/wryenmeek
+  - name: Whitney Williams
+    text:
+    img: williams-whitney.png
+    social:
+      - title: github #github account
+        url: https://github.com/wweliz
+      - title: twitter
+        url: https://twitter.com/whitneyhacks
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "A small group of programmers, designers, and tech folks trying to make Greenville, SC better."
+
+# Testimonial content. Shown on Home and About page.
+testimonial:
+    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    author: Marcel Newman
+    position: WEB DESIGNER - BLACKTIE.CO

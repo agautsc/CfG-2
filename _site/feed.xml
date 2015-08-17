@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code for GVL</title>
+    <description>The Marketing Site for Code for Greenville, SC</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 17 Aug 2015 17:47:30 -0400</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2015 17:47:30 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Project: ONE CALENDAR</title>
+        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
+&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Jul 2015 12:54:46 -0400</pubDate>
+        <link>http://yourdomain.com/project/api/drupal/php/one-calendar</link>
+        <guid isPermaLink="true">http://yourdomain.com/project/api/drupal/php/one-calendar</guid>
+        
+        
+        <category>project</category>
+        
+        <category>api</category>
+        
+        <category>drupal</category>
+        
+        <category>php</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: TROLLEY TRACKER</title>
+        <description>&lt;h4 id=&quot;about-the-trolley-tracker&quot;&gt;About the Trolley Tracker&lt;/h4&gt;
+&lt;p&gt;Improving the transportation ecosystem of Greenville is a huge and important project
+for the future growth of the city. It’s the highest percentage of ideas on &lt;a href=&quot;http://whatifgreenville.com&quot; title=&quot;Ideas for a better Greenville&quot;&gt;What If Greenville&lt;/a&gt; by a large margin and the more you talk to people in all areas the more you realize how important good transportation is. You can have the best schools, jobs, hospitals, and grocery stores in the world, but if people can’t get to them none of it matters.&lt;/p&gt;
+
+&lt;p&gt;This is why we decided to tackle the trolley tracker as one of our first projects. We thought creating an app to allow citizens to see where the free downtown trolley is would increase trolley ridership and be a nice, doable pilot project for additional transportation projects of the future.&lt;/p&gt;
+
+&lt;p&gt;This “small” project includes over 30 people working 5 distinct apps. We’ve developed
+* Android beacon to track the trolley
+* A web, iOS, Android and Windows client app to allow individuals to see where the trolleys are how long people need to wait until the trolley arrives.
+* Data storage and API to manage all this
+* Admin screen for launch&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Jul 2014 12:54:46 -0400</pubDate>
+        <link>http://yourdomain.com/project/trolley-tracker</link>
+        <guid isPermaLink="true">http://yourdomain.com/project/trolley-tracker</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Question: Why did the Chicken cross the road?</title>
+        <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
+        <link>http://yourdomain.com/question/your-project-name</link>
+        <guid isPermaLink="true">http://yourdomain.com/question/your-project-name</guid>
+        
+        
+        <category>question</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: Time to change your apps</title>
+        <description>&lt;p&gt;&lt;b&gt;Lorem Ipsum&lt;/b&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+
+&lt;p&gt;It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. &lt;!--more--&gt;
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;p&gt;Contrary to popular belief, &lt;b&gt;Lorem Ipsum is not simply random text&lt;/b&gt;. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Hampden-Sydney College&lt;/a&gt; in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.&amp;lt;&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-do-we-use-it&quot;&gt;Why do we use it?&lt;/h4&gt;
+&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
+        <link>http://yourdomain.com/blog/wordpress/photoshop/time-to-change-your-apps</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/wordpress/photoshop/time-to-change-your-apps</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>wordpress</category>
+        
+        <category>photoshop</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: Our new logo is here</title>
+        <description>&lt;p&gt;&lt;b&gt;Lorem Ipsum&lt;/b&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+
+&lt;p&gt;It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. &lt;!--more--&gt;
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;p&gt;Contrary to popular belief, &lt;b&gt;Lorem Ipsum is not simply random text&lt;/b&gt;. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Hampden-Sydney College&lt;/a&gt; in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.&amp;lt;&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-do-we-use-it&quot;&gt;Why do we use it?&lt;/h4&gt;
+&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
+        <link>http://yourdomain.com/blog/web-design/development/our-new-logo-is-here</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/web-design/development/our-new-logo-is-here</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>web-design</category>
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: Logo design contest starts now</title>
+        <description>&lt;p&gt;&lt;b&gt;Lorem Ipsum&lt;/b&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+
+&lt;p&gt;It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. &lt;!--more--&gt;
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;p&gt;Contrary to popular belief, &lt;b&gt;Lorem Ipsum is not simply random text&lt;/b&gt;. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Hampden-Sydney College&lt;/a&gt; in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.&amp;lt;&lt;/p&gt;
+
+&lt;p&gt;Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-do-we-use-it&quot;&gt;Why do we use it?&lt;/h4&gt;
+&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
+        <link>http://yourdomain.com/blog/tips&tricks/code-snippets/logo-design-contest-starts-now</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/tips&tricks/code-snippets/logo-design-contest-starts-now</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>tips&amp;tricks</category>
+        
+        <category>code-snippets</category>
+        
+      </item>
+    
+  </channel>
+</rss>
