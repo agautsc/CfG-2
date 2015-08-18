@@ -4,7 +4,7 @@
 title: Code for GVL
 description: "The Marketing Site for Code for Greenville, SC"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
+baseurl: "/CfG-2" #important: start with /
 url: "http://yourdomain.com"
 
 # Build settings
