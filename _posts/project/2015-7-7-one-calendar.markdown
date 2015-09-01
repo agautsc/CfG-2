@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "ONE CALENDAR"
+title:  "Events PI"
 date:   2015-07-10 16:54:46
 author: Adam Gautsch
 categories:
@@ -16,8 +16,8 @@ carousel:
 # - single03.jpg
 website: https://github.com/codeforgreenville/UpstateEvents
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+####Events PI
+This is Code for GVL's first project to get to prototype phase. Simply put, it's an API of all the tech organizations in the Greenville. The data, when possible, is updated automatically by using Meetup, EventBrite and other such APIs. Our goal is to have a suite of tools that can update organization and event information without having a person curate the database.
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+####Get Involved
+To see the working prototype and <a href="https://github.com/codeforgreenville/UpstateEvents" title="GitHub Repo">get involved visit the GitHub Repo</a>.
