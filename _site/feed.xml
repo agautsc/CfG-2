@@ -5,8 +5,8 @@
     <description>The Marketing Site for Code for Greenville, SC</description>
     <link>http://yourdomain.com/CfG-2/</link>
     <atom:link href="http://yourdomain.com/CfG-2/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 01 Sep 2015 14:09:33 -0400</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2015 14:09:33 -0400</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2015 14:55:21 -0400</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2015 14:55:21 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -59,12 +59,41 @@ for the future growth of the city. It’s the highest percentage of ideas on &lt
       </item>
     
       <item>
-        <title>Question: Why did the Chicken cross the road?</title>
-        <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
+        <title>Question: How often and where do you meet?</title>
+        <description>&lt;p&gt;We usually meet once a month at &lt;a href=&quot;https://joinopenworks.com&quot; title=&quot;101 North Main Street - aka the Bank of America building&quot;&gt;OpenWorks&lt;/a&gt; in downtown Greenville. If we’re getting close to end of a project we might meet more frequently to get things done.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/Upstate-Code-for-America/&quot; title=&quot;Don&#39;t let the Upstate Code For name fool you. It&#39;s Code for GVL&quot;&gt;Join our Meetup group to stay in loop for all meetings&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
         <link>http://yourdomain.com/CfG-2/question/your-project-name</link>
         <guid isPermaLink="true">http://yourdomain.com/CfG-2/question/your-project-name</guid>
+        
+        
+        <category>question</category>
+        
+      </item>
+    
+      <item>
+        <title>Question: What programming language do y&#39;all use?</title>
+        <description>&lt;p&gt;Yours. We’re looking for people passionate enough to do work. We’d rather have a working app in COBOL than a theoretical app in the cool new language.&lt;/p&gt;
+
+&lt;p&gt;We’ve had people write in&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HTML / CSS / Javascript&lt;/li&gt;
+  &lt;li&gt;ASP&lt;/li&gt;
+  &lt;li&gt;PHP&lt;/li&gt;
+  &lt;li&gt;Swift&lt;/li&gt;
+  &lt;li&gt;Java&lt;/li&gt;
+  &lt;li&gt;Clojure&lt;/li&gt;
+  &lt;li&gt;And more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Come on out and see if we can’t plug you into a project or start something new.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
+        <link>http://yourdomain.com/CfG-2/question/what-programming-language</link>
+        <guid isPermaLink="true">http://yourdomain.com/CfG-2/question/what-programming-language</guid>
         
         
         <category>question</category>
@@ -170,6 +199,33 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
         <category>tips&amp;tricks</category>
         
         <category>code-snippets</category>
+        
+      </item>
+    
+      <item>
+        <title>Question: Do I need to be a programmer to help?</title>
+        <description>&lt;p&gt;Nope. We need help on almost all levels. If you have experience with&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Design&lt;/li&gt;
+  &lt;li&gt;Project Management&lt;/li&gt;
+  &lt;li&gt;Copywriting&lt;/li&gt;
+  &lt;li&gt;Marketing / PR&lt;/li&gt;
+  &lt;li&gt;Public Affairs&lt;/li&gt;
+  &lt;li&gt;Solving Problems&lt;/li&gt;
+  &lt;li&gt;Herding Cats&lt;/li&gt;
+  &lt;li&gt;BBQ&lt;/li&gt;
+  &lt;li&gt;Anything else&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Come on out. We’d love to see you at our next meeting.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
+        <link>http://yourdomain.com/CfG-2/question/do-i-need-to-be-a-programmer</link>
+        <guid isPermaLink="true">http://yourdomain.com/CfG-2/question/do-i-need-to-be-a-programmer</guid>
+        
+        
+        <category>question</category>
         
       </item>
     
