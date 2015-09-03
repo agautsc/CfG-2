@@ -101,9 +101,9 @@ members:
         url: http://github.com/bigbluehat
       - title: twitter
         url: http://twitter.com/bigbluehat
-  - name: bikeoid
+  - name: Mike Nice
     text:
-    img: gonzalez.jpg
+    img: bikeoid.jpg
     social:
       - title: github #use for email address
         url: http://github.com/bikeoid
@@ -224,4 +224,4 @@ about: "A small group of programmers, designers, and tech folks trying to make G
 testimonial:
     message: ""
     author:
-    position: 
+    position:
