@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "ONE CALENDAR"
+title:  "Tech Organizations API"
 date:   2015-07-10 16:54:46
 author: Adam Gautsch
 categories:
